@@ -24,7 +24,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
   </tr>
 </table>
 
-## Certificações e Linguagens
+## Certifications and Programming Languages
 <table>
   <tr>
     <td align="center">
