@@ -29,12 +29,8 @@ System's information student and Cloud Analyst with two AWS Certifications.
       <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
            alt="AWS Cloud Practitioner" width="120"/>
     </td>
-    <td align="center">
+    <td align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiengel&layout=compact&theme=tokyonight" 
-           alt="Linguagens mais usadas"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Guiengel&show_icons=true&theme=tokyonight)" 
            alt="Linguagens mais usadas"/>
     </td>
   </tr>
