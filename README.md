@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Guilherme Luis Engel</h1>
+<h2 align="center">I'm Guilherme Luis Engel</h2>
 <p align="center">
   System's information student and Cloud Analyst with two AWS Certifications.
 </p>
