@@ -25,22 +25,22 @@ System's information student and Cloud Analyst with two AWS Certifications.
 </table>
 
 ## Certificações e Linguagens
-<div align="center">
-
-  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
-       alt="AWS Cloud Practitioner" 
-       style="display:inline-block; vertical-align:top; margin-right:10px;"/>
-
-  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
-       alt="AWS Solutions Architect Associate" 
-       style="display:inline-block; vertical-align:top; margin-right:10px;"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiengel&layout=compact&theme=tokyonight" 
-       alt="Linguagens mais usadas" 
-       style="display:inline-block; vertical-align:top;"/>
-</div>
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+           alt="AWS Solutions Architect Associate" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
+           alt="AWS Cloud Practitioner" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiengel&layout=compact&theme=tokyonight" 
+           alt="Linguagens mais usadas"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Guiengel/Guiengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
