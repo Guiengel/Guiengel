@@ -11,6 +11,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
         <li>Java</li>
         <li>Flutter</li>
         <li>Terraform</li>
+        <li>Kotlin</li>
       </ul>
     </td>
     <td>
@@ -23,6 +24,12 @@ System's information student and Cloud Analyst with two AWS Certifications.
     </td>
   </tr>
 </table>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/guilherme-engel-a68a5a204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
+
 
 ## Certifications and Programming Languages
 <table>
