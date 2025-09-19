@@ -2,28 +2,13 @@
 ### I'm Guilherme Luis Engel
 System's information student and Cloud Analyst with two AWS Certifications.
 
-<h2>Skills and learnings</h2>
+## Skills and learnings
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Java</li>
-        <li>Flutter</li>
-        <li>Terraform</li>
-        <li>Kotlin</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Microservices</li>
-        <li>Networking</li>
-        <li>Linux</li>
-        <li>SQL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 💻 Java | Flutter | Kotlin  
+- ☁️ AWS | Terraform  
+- 🔧 Microsserviços | Networking  
+- 🐧 Linux | 🗄️ SQL
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
