@@ -15,6 +15,9 @@ System's information student and Cloud Analyst with two AWS Certifications.
   <a href="https://www.linkedin.com/in/guilherme-engel-a68a5a204/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
+  <a href="guilhermengel1@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
+  </a>
 </p>
 
 
@@ -29,7 +32,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
       <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
            alt="AWS Cloud Practitioner" width="120"/>
     </td>
-    <td align="right">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiengel&layout=compact&theme=tokyonight" 
            alt="Linguagens mais usadas"/>
     </td>
