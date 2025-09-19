@@ -18,7 +18,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
 </p>
 
 
-## Certifications and Programming Languages
+<h2 align="center">Certifications and Programming Languages</h2>
 <table>
   <tr>
     <td align="center">
