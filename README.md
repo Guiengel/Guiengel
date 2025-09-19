@@ -33,6 +33,10 @@ System's information student and Cloud Analyst with two AWS Certifications.
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiengel&layout=compact&theme=tokyonight" 
            alt="Linguagens mais usadas"/>
     </td>
+    <td align="center">
+      <img src="![Guiengel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiengel&show_icons=true&theme=tokyonight)" 
+           alt="Linguagens mais usadas"/>
+    </td>
   </tr>
 </table>
 
