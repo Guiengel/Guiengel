@@ -15,7 +15,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
   <a href="https://www.linkedin.com/in/guilherme-engel-a68a5a204/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="guilhermengel1@gmail.com">
+  <a href="mailto:guilhermengel1@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
   </a>
 </p>
