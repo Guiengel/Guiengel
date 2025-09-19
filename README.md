@@ -19,6 +19,17 @@ System's information student and Cloud Analyst with two AWS Certifications.
   <li>📱 Kotlin</li>
 </ul>
 
+## Skills  
+
+| ☕ Java | 📱 Flutter | ☁️ AWS | 🛠️ Microservices | 🌐 Networking |
+|--------|------------|--------|------------------|---------------|
+
+## Currently Learning  
+
+| ⚙️ Terraform | 📊 SQL | 🐧 Linux | 📱 Kotlin |
+|--------------|--------|----------|-----------|
+
+
 
 
 <h3 align="left">Connect with me:</h3>
