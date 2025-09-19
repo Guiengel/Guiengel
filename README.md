@@ -6,7 +6,7 @@ System's information student and Cloud Analyst with two AWS Certifications.
 - 💻 Java   
 - 📱 Flutter  
 - ☁️ AWS  
-- 🔧 Microsserviços
+- 🔧 Microservices
 - 🌐 Networking
   
 ## Currently Learning
