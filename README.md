@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Guilherme Luis Engel</h2>
 <p align="center">
-  System's information student and Cloud Analyst with two AWS Certifications.
+  System's information student and Cloud Analyst with three AWS Certifications.
 </p>
 
 ## Skills  
